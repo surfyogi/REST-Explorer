@@ -1,0 +1,20 @@
+{
+  "name": "REST-Explorer",
+  "version": "0.0.1",
+  "description": "Simple REST API Explorer renders UI for API calls in config file.",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.html",
+    "config.js",
+    "package.json",
+    "api-expl.js",
+    "app.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/surfyogi/REST-Explorer.git"
+  },
+  "author": "Jeff Papineau",
+  "license": "MIT"
+}
