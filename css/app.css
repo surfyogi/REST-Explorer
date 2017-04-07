@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+h2 {
+  text-align: center;
+}
+.response-view {
+  width: auto;
+  height: auto;
+  padding: 10px 0 0 5px;
+}
+.content {
+    height: auto;
+    max-height: 300px;
+    overflow: auto;
+    border: 1px grey solid;
+    padding: 10px;
+    margin: 0 5px 0 0;
+}
+.titlebar {
+  width: 500px;
+  height: 20px;
+  padding: 5px 0 5px 0;
+  font-weight: bold;
+}
+.component {
+  border: 1px green solid;
+  margin: 15px 0 5px 0;
+  padding: 0px 0 0 10px;
+}
+.buttons {
+  margin: 25px 0 0 0;
+}
+.button {
+  margin: 0 15px 0 0;
+  padding: 8px;
+}
+.input {
+    width: 250px;
+}
+input {
+  padding: 5px 0 0 0;
+  margin: 5px 0 0 0;
+}
