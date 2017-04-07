@@ -1,20 +1,19 @@
 {
   "name": "rest-explorer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple REST API Explorer renders UI for API calls described in config file.",
-  "files": [
-    "package.json",
-    "LICENSE",
-    "README.md",
-    "index.html",
-    "config.js",
-    "js/api-expl.js",
-    "css/app.css"
-  ],
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git@github.com/surfyogi/REST-Explorer.git"
+    "url": "git+https://github.com/surfyogi/REST-Explorer.git"
   },
   "author": "Jeff Papineau",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surfyogi/REST-Explorer/issues"
+  },
+  "homepage": "https://github.com/surfyogi/REST-Explorer#readme"
 }
