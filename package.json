@@ -1,15 +1,15 @@
 {
   "name": "rest-explorer",
-  "version": "0.0.1",
-  "description": "Simple REST API Explorer renders UI for API calls in config file.",
+  "version": "0.0.2",
+  "description": "Simple REST API Explorer renders UI for API calls described in config file.",
   "files": [
+    "package.json",
     "LICENSE",
     "README.md",
     "index.html",
     "config.js",
-    "package.json",
-    "api-expl.js",
-    "app.css"
+    "js/api-expl.js",
+    "css/app.css"
   ],
   "repository": {
     "type": "git",
