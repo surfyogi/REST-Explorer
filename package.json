@@ -1,5 +1,5 @@
 {
-  "name": "REST-Explorer",
+  "name": "rest-explorer",
   "version": "0.0.1",
   "description": "Simple REST API Explorer renders UI for API calls in config file.",
   "files": [
