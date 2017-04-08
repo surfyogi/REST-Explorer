@@ -6,6 +6,18 @@ A Simple REST API Explorer displays a User Interface for all REST commands descr
 (an object with key-value type: number would render <input type="number")
 - each input may have any number of attributes. (ex: pattern, min, max, etc.)
 
+HOW TO INSTALL:
+
+cd to your web server document root (htdocs) folder
+
+git clone https://github.com/surfyogi/REST-Explorer.git
+
+cd rest-explorer
+
+In your web browser, go to: http://localhost/rest-explorer/index.html
+
+
+Configuration:
 
 1) Use the config.js file as an example of how to set up the explorer for
 a given existing REST API. This file is read by the explorer, then each
